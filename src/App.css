@@ -274,7 +274,7 @@ body {
     flex: 1;
   }
   .details {
-    height: 65vh;
+    min-height: 70vh;
     display: flex;
     flex-direction: column;
   }
