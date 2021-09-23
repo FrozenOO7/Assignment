@@ -295,7 +295,7 @@ body {
 @media (max-width: 400px) {
   .main-component {
     width: 80%;
-    height: 90vh;
+    height: 100vh;
     margin-right: 1.2rem;
     /* border: 1px solid; */
   }
@@ -311,7 +311,7 @@ body {
   }
 
   .details {
-    height: 90vh;
+    height: 100vh;
   }
   .info {
     width: 100%;
